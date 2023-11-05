@@ -1,5 +1,5 @@
-# DigitRecognition
-My attempt at no black-box digit recognition machine learning algorithm. Inspired by Andrew Ng's Machine Learning course.
+# Digit Recognition v1
+My first attempt at no black-box digit recognition machine learning algorithm. Inspired by Andrew Ng's Machine Learning course.
 
 # How to use
 * Create folder named **data**
